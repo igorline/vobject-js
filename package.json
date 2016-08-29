@@ -9,15 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunrise/vobject-js.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sunrise/vobject-js/issues"
+    "url": "https://github.com/BOOKKAcalendar/vobject-js"
   },
   "version": "0.1.0",
   "dependencies": {
-    "moment-timezone": "0.5.4",
-    "underscore": "1.8.3"
+    "moment-timezone": "^0.5.4",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "mocha": "2.4.5",

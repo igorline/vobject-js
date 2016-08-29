@@ -1,4 +1,4 @@
-# VObject-JS -- iCalendar VObject Manipulation in NodeJS
+# VObject-JS -- iCalendar VObject Manipulation in NodeJS [Fork that works in browser, without `timezone` and `zoneinfo`]
 
 VObject-JS allows you to easily manipulate iCalendar objects using JavaScript. Implements [rfc5545](http://tools.ietf.org/html/rfc5545). Inspired by [node-icalendar](https://github.com/tritech/node-icalendar), [ical.js](https://github.com/mozilla-comm/ical.js/) and [sabre-vobject](https://github.com/fruux/sabre-vobject).
 
